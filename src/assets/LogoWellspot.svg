@@ -1,0 +1,10 @@
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87 87">
+  <title>Sans titre - 1</title>
+  <path d="M69.61,25.81c0-.19,0-.38,0-.58,0-.51-.08-1-.16-1.52,0-.21-.06-.41-.1-.62-.12-.63-.26-1.24-.44-1.85-.06-.22-.13-.44-.2-.66,0-.07,0-.14-.07-.21-.09-.27-.19-.54-.29-.81h0a19.63,19.63,0,0,0-36.62,0h0c-.1.27-.2.54-.29.81,0,.07,0,.14-.07.21-.07.22-.14.44-.2.66-.18.61-.32,1.22-.44,1.85,0,.21-.07.41-.1.62-.08.5-.13,1-.16,1.52,0,.2,0,.39,0,.58s0,.55,0,.82a19.25,19.25,0,0,0,.76,5.4c.16.57.35,1.13.56,1.68h0l0,0,1.78,3.5L50,69.63,66.49,37.28l1.82-3.57c.21-.55.4-1.11.56-1.68a19.25,19.25,0,0,0,.76-5.4C69.63,26.36,69.62,26.08,69.61,25.81ZM50,39.91a14.1,14.1,0,1,1,14.1-14.1A14.11,14.11,0,0,1,50,39.91Z" transform="translate(-6.5 -6.5)" style="stroke: #000;stroke-miterlimit: 10"/>
+  <circle cx="50" cy="25.81" r="14.1" transform="translate(-12.57 14.6) rotate(-22.5)" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+  <line x1="7.97" y1="86.5" x2="7.97" y2="67.73" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+  <line x1="79.03" y1="86.5" x2="79.03" y2="67.73" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+  <line x1="0.5" y1="86.5" x2="86.5" y2="86.5" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+  <path d="M93,50A43,43,0,1,1,7,50a3.74,3.74,0,1,1,7.47,0,35.53,35.53,0,0,0,71.06,0h0A3.69,3.69,0,1,1,93,50Z" transform="translate(-6.5 -6.5)" style="fill: #f9d714;stroke: #f9d714;stroke-miterlimit: 10"/>
+  <circle cx="50" cy="25.81" r="14.1" transform="translate(-12.57 14.6) rotate(-22.5)" style="fill: none;stroke: #000;stroke-miterlimit: 10"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <title>logo2</title>
+  <g>
+    <rect y="181.72" width="200" height="18.28" style="fill: #ff4655"/>
+    <rect x="100" y="81.72" width="181.72" height="18.28" transform="translate(100 281.72) rotate(-90)" style="fill: #ff4655"/>
+    <rect x="-68.01" y="68.01" width="154.3" height="18.28" transform="translate(-68.01 86.29) rotate(-90)" style="fill: #ff4655"/>
+    <rect x="18.28" width="73.12" height="18.28" transform="translate(109.68 18.28) rotate(180)" style="fill: #ff4655"/>
+    <rect x="9.68" y="81.72" width="90.32" height="18.28" transform="translate(145.7 36.02) rotate(90)" style="fill: #ff4655"/>
+    <rect x="101.08" y="81.72" width="90.32" height="18.28" transform="translate(237.1 -55.38) rotate(90)" style="fill: #ff4655"/>
+    <rect x="45.7" y="136.02" width="109.68" height="18.28" transform="translate(201.08 290.32) rotate(180)" style="fill: #ff4655"/>
+    <rect x="46.24" y="45.16" width="108.6" height="18.28" transform="translate(154.84 -46.24) rotate(90)" style="fill: #ff4655"/>
+    <rect x="137.1" width="18.28" height="18.28" transform="translate(155.38 -137.1) rotate(90)" style="fill: #ff4655"/>
+  </g>
+</svg>

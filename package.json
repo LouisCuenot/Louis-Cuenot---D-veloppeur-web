@@ -9,6 +9,12 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "emailjs-com": "^2.6.4",
+    "gsap": "^3.6.0",
+    "locomotive": "^0.4.2",
+    "locomotive-scroll": "^4.1.0",
+    "scroll": "^3.0.1",
+    "three": "^0.125.2",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0"
   },
